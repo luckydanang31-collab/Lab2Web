@@ -2,8 +2,8 @@
 # Praktikum 2: HTML Lanjutan (Lab2Web)
 
 **Nama**: Lucky Danang Aryeswara  
-**NIM**: 312510482 
-**Kelas**: I243A 
+**NIM**: 312510482   
+**Kelas**: I253A 
 **Mata Kuliah**: Pemrograman Web  
 
 ## Deskripsi Tugas
