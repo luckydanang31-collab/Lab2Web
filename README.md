@@ -3,7 +3,7 @@
 
 **Nama**: Lucky Danang Aryeswara  
 **NIM**: 312510482   
-**Kelas**: I253A 
+**Kelas**: I253A   
 **Mata Kuliah**: Pemrograman Web  
 
 ## Deskripsi Tugas
