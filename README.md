@@ -1,4 +1,6 @@
 ![Tampilan Web](assets/ss1.png)  
+![Tampilan Web](assets/ss2.png)  
+![Tampilan Web](assets/ss3.png)  git
 
 # Praktikum 2: HTML Lanjutan (Lab2Web)
 
